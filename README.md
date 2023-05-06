@@ -3,7 +3,7 @@ A React application created with Vite.js which uses Auth0 for authentication.
 
 Steps to reproduce:
 
-1.Create a new application on the Auth0 website.
+1.Create a new application on the Auth0 website. (https://auth0.com/)
 
 2.In the settings, under "Application URIs", add "http://localhost:5173" to the callback,logout and allowed web origin urls.
 
